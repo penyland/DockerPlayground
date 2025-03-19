@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="WebApplication1/WebApplication1.csproj" />
+  <Project Path="WebApplicationSDKContainer/WebApplicationSDKContainer.csproj" Id="618b62b7-738a-4853-9e3c-0b1bae380e1f" />
+</Solution>

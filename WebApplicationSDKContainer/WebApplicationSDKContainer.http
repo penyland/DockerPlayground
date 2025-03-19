@@ -1,0 +1,6 @@
+@WebApplicationSDKContainer_HostAddress = http://localhost:5140
+
+GET {{WebApplicationSDKContainer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
